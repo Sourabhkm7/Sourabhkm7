@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Sourabh Kumar Mandal!
 
-<!--
-**Sourabhkm7/Sourabhkm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** with expertise in the **MERN stack** (MongoDB, Express, React, Node.js) and over **2.6 years of experience** in web development. I’m passionate about building scalable, user-friendly applications and continuously expanding my skillset.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+
+- 💼 Software Developer at Cognizant Technology Solutions, recognized for driving **10% revenue growth** in my first 13 months and reducing page loading times by **15%** on critical applications.
+- 🛠️ Experienced in **JavaScript, TypeScript, HTML/CSS, React, Node.js, MongoDB, Oracle SQL, and AWS**.
+- 🎓 **Bachelor's in Civil Engineering** with a CGPA of 8.75/10.
+- 💬 Ask me about **JavaScript, Node.js, and React** – I'm always happy to share my knowledge!
+- 📚 Currently exploring **Kafka** and advanced **AWS services**.
+
+---
+
+- [LinkedIn](https://www.linkedin.com/in/sourabhkm7)
+- [GitHub](https://github.com/yourusername)
