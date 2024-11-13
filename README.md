@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sourabh Kumar Mandal</h1>
+<h1 align="center">Hello, I'm Sourabh Kumar Mandal</h1>
 <h3 align="center">Full-Stack Web Developer | Turning Ideas into Scalable Solutions</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhkm7&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhkm7" /> </p>
 
 - 🔭 I’m currently [Diving Deep into Reactjs](https://github.com/Sourabhkm7/Frontend-in-React)
 
-- 🌱 I’m currently learning **Nextjs,Kafka,GraphQL**
+- 🌱 I’m currently learning **Nextjs, Kafka, GraphQL**
 
-- 💬 Ask me about **MERN, Web Development**
+- 💬 Ask me about **Web Development, JavaScript, Nodejs, Reactjs, OracleSql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
