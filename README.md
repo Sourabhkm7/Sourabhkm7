@@ -1,7 +1,5 @@
-[[!MasterHead](https://camo.githubusercontent.com/fa7a20f157c21b47f5f1cbad414100bad86ace80da1f348d1bdc83f73c693b8b/68747470733a2f2f7777772e7361666572736f63696574792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f4769662d616e696d6174696f6e2d68656c6c6f2e676966)]
 <h1 align="center">Hi 👋, I'm Sourabh Kumar Mandal</h1>
 <h3 align="center">Full-Stack Web Developer | Turning Ideas into Scalable Solutions</h3>
-<image align="right" width=400 src="https://github.com/sanskar8176/sanskar8176" alt ="coding" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhkm7&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhkm7" /> </p>
 
 - 🔭 I’m currently [Diving Deep into Reactjs](https://github.com/Sourabhkm7/Frontend-in-React)
