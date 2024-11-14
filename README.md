@@ -1,4 +1,12 @@
-<h1 align="center">Hello, I'm Sourabh Kumar Mandal</h1>
+<div align="center">
+  <!-- Full-Width Cover Photo -->
+  <img align="center" src="Webdesign.gif" alt="Masthead Image" width="50%" style="max-height: 400px; object-fit: cover;"/>
+
+  <!-- Overlayed Heading Text -->
+  <h1 align="center" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 3em; background-color: rgba(0, 0, 0, 0.5); padding: 10px 20px; border-radius: 10px;">
+    Hello, I'm Sourabh Kumar Mandal
+  </h1>
+</div>
 <h3 align="center">Full-Stack Web Developer | Turning Ideas into Scalable Solutions</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhkm7&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhkm7" /> </p>
 
