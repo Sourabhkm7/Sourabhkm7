@@ -14,7 +14,7 @@
 
 - 🌱 Upcoming Goals **Kafka,AWS Cloud Integration**
 
-- 💬 Ask me about **Web Development, JavaScript, Nodejs, Reactjs, OracleSql**
+- 💬 Ask me about **Web Development, JavaScript, Nodejs, Reactjs, Sql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
