@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently Learning **Next js**
 
-- 🌱 Upcoming Goals **Kafka,AWS Cloud**
+- 🌱 Upcoming Goals **Kafka,AWS Cloud Integration**
 
 - 💬 Ask me about **Web Development, JavaScript, Nodejs, Reactjs, OracleSql**
 
