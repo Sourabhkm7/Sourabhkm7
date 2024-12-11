@@ -7,7 +7,7 @@
     Hello, I'm Sourabh Kumar Mandal
   </h1>
 </div>
-<h3 align="center">Full-Stack Web Developer | AWS Cloud Practitioner | Turning Ideas into Scalable Solutions</h3>
+<h3 align="center">Full-Stack Web Developer | Certified AWS Cloud Practitioner | Turning Ideas into Scalable Solutions</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhkm7&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhkm7" /> </p>
 
 - 🔭 I’m currently Learning **Next js**
